@@ -5,3 +5,5 @@
 <img src="MRSVD.png">
 
 Vídeo-tutorial disponível no Youtube: https://youtu.be/eYDv9lHlMk8
+
+Referência: https://www.editorapantanal.com.br/ebooks-capitulo.php?ebook_id=ciencia-em-foco-volume-vii&ebook_ano=2022&ebook_caps=1&ebook_org=1&ebook_capitulo=Cap8
